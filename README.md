@@ -18,9 +18,16 @@ Evaluating whether Pakistan's revenue-to-GDP structurally changed after the 18th
 (1) The model does not consider any other factors such as macro-control variables, governance and political breakdowns.
 (2) The model trains on a very small range of data; more data and consideration of multiple macro-variables shall allow for better understanding. 
 (3) Not a causal inference. 
+(4) Non-Linear Modelling Approach for future analysis
 
 ## Visualization
 
 ![Actual vs Counterfactual](actual_vs_counterfactual.png)
 
 The figure above compares actual revenue-to-GDP ratios against the counterfactual projection generated from the pre-2009 linear trend.
+
+## Tools Used
+(1)Python
+(2) pandas
+(3) matplotlib
+(4) scikit-learn (Linear Regression)
