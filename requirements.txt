@@ -1,0 +1,6 @@
+///////////////////////REQUIREMENTS///////////////////////
+
+
+pandas
+matplotlib
+scikit-learn
